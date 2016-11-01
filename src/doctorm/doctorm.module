@@ -1,0 +1,6 @@
+<?php
+
+function doctorm_init()
+{
+  require_once './DoctORM.inc';
+}
